@@ -47,4 +47,4 @@ dependencies:
       - pynwb>=2.2.0,<3
       - sortingview>=0.11
       - spikeinterface>=0.98.2,<0.99
-      - spyglass-neuro>=0.5.*
+      - spyglass-neuro==0.5.1
