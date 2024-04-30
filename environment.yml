@@ -11,6 +11,7 @@ dependencies:
 # Jupyterhub dependencies
   - jupyterlab>=3.*,<4 # leave at v3 to support jupyterlab-git
   - jupyter_contrib_nbextensions==0.5.1
+  - jupyterlab_myst
   - jupyterlab-git
   - nbgitpuller=1.1.*
 # Spyglass dependencies
@@ -18,7 +19,6 @@ dependencies:
   # - cudatoolkit=11.3 # dlc-only
   # - ffmpeg # dlc-only
   - ipympl
-  - jupyterlab>=3.*
   # - libgcc # dlc-only
   - matplotlib
   - non_local_detector
