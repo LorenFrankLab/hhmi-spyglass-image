@@ -36,7 +36,7 @@ dependencies:
   - track_linearization>=2.3
   - pip:
       - "black[jupyter]"
-      - datajoint>=0.13.6
+      - datajoint>=0.14.4
       # - deeplabcut<2.3.0 # dlc-only
       - ghostipy # for common_filter
       # Allows MyST Markdown in JupyterLab UI
